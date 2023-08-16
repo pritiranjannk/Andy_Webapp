@@ -7,8 +7,8 @@ Made with React js and Vanilla CSS
 
 Commands required to set CICD in ec2.
 
-sudo apt-get update
-sudo apt install nginx
-sudo apt install nodejs
-sudo apt install python3
-npm install pm2 -g
+#sudo apt-get update
+#sudo apt install nginx
+#sudo apt install nodejs
+#sudo apt install python3
+#npm install pm2 -g
