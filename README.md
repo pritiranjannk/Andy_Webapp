@@ -12,3 +12,4 @@ Commands required to set CICD in ec2.
 #sudo apt install nodejs
 #sudo apt install python3
 #npm install pm2 -g
+#sudo ./svc.sh install
